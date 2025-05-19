@@ -1,4 +1,4 @@
-Устанавливаем Ansible с помощью Docker Compose Ubuntu 22.04 (контейнер).  
+Устанавливаем Ansible с помощью Docker Compose (контейнеры c Ubuntu 22.04).  
 Использовал инструкцию для nix, но разворачивал контейнер в десктопном Docker на Windows 11.  
 <https://cloudinfrastructureservices.co.uk/how-to-install-ansible-using-docker-compose-ubuntu-20-04-container/>
 
